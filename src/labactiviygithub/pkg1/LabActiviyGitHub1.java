@@ -21,6 +21,7 @@ public class LabActiviyGitHub1 {
         System.out.println("Hello I'm Shahad Aljedaani");
         System.out.println("Hello I'm Rania Almutairi");
         System.out.println("Hello I'm Raghad Alghamdi");
+        System.out.println("Hello I'm Rehab Alsulami");
     }
     
 }
